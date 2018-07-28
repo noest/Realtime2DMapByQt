@@ -107,7 +107,7 @@ void VectorImageMaker::initVectorMap()
 {
     QList<Config::Map> mapsInfo;
     mapsInfo.append(Config::Map("marksmp","./Data/VectorMap/mark_simple",Config::getValue("color/provinceName","#aaffff88").toString(), 6, 16, 2, 2, 16, 2));
-    mapsInfo.append(Config::Map("markfull","./Data/VectorMap/mark_full",Config::getValue("color/palceName","#aac3c369").toString(), 8, 16, 2, 2, 14, 2));
+    mapsInfo.append(Config::Map("markfull","./Data/VectorMap/mark_full",Config::getValue("color/palceName","#aac3c369").toString(), 7, 16, 2, 2, 12, 2));
     mapsInfo.append(Config::Map("boundary","./Data/VectorMap/boundary",Config::getValue("color/boundary","#aabfbfaf").toString(), 1, 16, 1, 2, 14, 1));
     mapsInfo.append(Config::Map("road","./Data/VectorMap/road",Config::getValue("color/road","#aa9F9F8F").toString(),8,16,1,2,12,1));
 
