@@ -8,7 +8,7 @@ QT       += core gui opengl
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = MapByQt
+TARGET = Realtime2DMapByQt
 TEMPLATE = app
 
 DESTDIR = $$_PRO_FILE_PWD_/
