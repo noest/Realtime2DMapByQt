@@ -28,6 +28,6 @@ iso下载 [百度网盘地址](https://pan.baidu.com/s/1lLXLmtKrQhUOH_s1eW7ljA)
 需要的运行环境为 Qt5.6 mingw 使用的动态库 ```libgdal.dll``` 需放置到 ```MapDemo.exe``` 相同目录
 
 ## 截图
-![](https://github.com/XiaYingSuiFeng/MapByQt/blob/master/Data/ScreenShot/1.jpg)
-![](https://github.com/XiaYingSuiFeng/MapByQt/blob/master/Data/ScreenShot/2.jpg)
-![](https://github.com/XiaYingSuiFeng/MapByQt/blob/master/Data/ScreenShot/3.jpg)
+![](https://github.com/noest/Realtime2DMapByQt/blob/master/Data/ScreenShot/1.jpg)
+![](https://github.com/noest/Realtime2DMapByQt/blob/master/Data/ScreenShot/2.jpg)
+![](https://github.com/noest/Realtime2DMapByQt/blob/master/Data/ScreenShot/3.jpg)
